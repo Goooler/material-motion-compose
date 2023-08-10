@@ -24,7 +24,7 @@ metalava-pluginGradle = "me.tylerbwong.gradle.metalava:plugin:0.3.2"
 kotlin-pluginGradle = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlin" }
 
-dokka-pluginGradle = "org.jetbrains.dokka:dokka-gradle-plugin:1.8.10"
+dokka-pluginGradle = "org.jetbrains.dokka:dokka-gradle-plugin:1.8.20"
 
 # Compose
 
